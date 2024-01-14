@@ -1,4 +1,1 @@
-largefile.csv filter=lfs diff=lfs merge=lfs -text
-C:/Users/VILENNEF/Downloads/Pointless_Predictions.csv filter=lfs diff=lfs merge=lfs -text
-C:/Users/VILENNEF/Downloads/Pointless_Predictions.csv filter=lfs diff=lfs merge=lfs -text
 Pointless_Predictions.csv filter=lfs diff=lfs merge=lfs -text
